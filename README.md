@@ -11,7 +11,7 @@ The Voice Assistant acts as the main interface between the user and the smart sp
 
 Thus, AI makes smart speakers more interactive, intelligent, and capable of understanding human language and responding to user requirements.
 
-# WORKING PRINCIPLE 
+## WORKING PRINCIPLE 
 
 The working of an AI-based smart speaker begins when the user gives a voice command. The microphone present in the smart speaker captures the user's voice. The captured audio is passed to the Speech Recognition system, where the spoken words are converted into text.
 
